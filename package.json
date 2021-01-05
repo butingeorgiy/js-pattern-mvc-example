@@ -1,0 +1,15 @@
+{
+  "name": "js-pattern-mvc-example",
+  "version": "1.0.0",
+  "description": "Пример реализации архитектурного паттерна MVC на языке JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "mvc"
+  ],
+  "author": "Butin Georgiy",
+  "license": "ISC"
+}
